@@ -10,3 +10,4 @@ const num3=24
 const num4=5
 let mod = num3 % num4
 let max =20
+
